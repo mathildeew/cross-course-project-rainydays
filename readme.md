@@ -10,3 +10,4 @@ This project was a part of several courses of the front-end development study pr
 - CSS
 - JavaScript
 - Wordpress REST API
+  ll
