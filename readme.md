@@ -13,6 +13,8 @@ The project contained the following steps:
 - Buld the website.
 - Store the products in a headless CMS and display them on the website by fetching the API.
 
+[Visit webpage](https://rainydays-ccp.netlify.app)
+
 ## Bult with
 
 - HTML
