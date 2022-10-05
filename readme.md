@@ -22,4 +22,5 @@ The project contained the following steps:
 
 ## Contact
 
--[hei@mathildeelinor.no](mailto:hei@mathildeelinor.no) -[Visit my portfolio](https://www.mathildeelinor.no)
+- [hei@mathildeelinor.no](mailto:hei@mathildeelinor.no)
+- [Visit my portfolio](https://www.mathildeelinor.no)
