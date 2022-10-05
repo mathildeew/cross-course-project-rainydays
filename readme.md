@@ -19,6 +19,9 @@ The project contained the following steps:
 - CSS
 - JavaScript
 - Wordpress REST API
+- Adobe XD
+- Photoshop
+- Illustrator
 
 ## Contact
 
