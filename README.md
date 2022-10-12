@@ -1,8 +1,6 @@
-# Rainydays / Cross Course Project
-
 ![rainydays](https://user-images.githubusercontent.com/94295012/194146236-15240eee-fa32-471d-8359-b7fac1965865.jpg)
 
-## Description
+# Rainydays / Cross Course Project
 
 This project was a part of several courses of the front-end development study program. The goal was to create an online shop selling men’s and women’s rain jackets.
 
